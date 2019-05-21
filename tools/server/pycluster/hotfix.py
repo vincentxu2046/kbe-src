@@ -1,0 +1,2 @@
+import KBECommon
+KBECommon.hotfixServer()
